@@ -1,0 +1,38 @@
+{
+  "type": "list",
+  "header": {
+    "type": "text",
+    "text": "Doctor Appointment"
+  },
+  "body": {
+    "text": "Select a specialty:"
+  },
+  "footer": {
+    "text": "Our doctors are ready to help!"
+  },
+  "action": {
+    "button": "Choose Specialty",
+    "sections": [
+      {
+        "title": "Specialties",
+        "rows": [
+          {
+            "id": "gen_physician",
+            "title": "General Physician",
+            "description": "Cold, fever, general check-up"
+          },
+          {
+            "id": "dermatologist",
+            "title": "Dermatologist",
+            "description": "Skin, hair, and nails"
+          },
+          {
+            "id": "pediatrician",
+            "title": "Pediatrician",
+            "description": "Child specialist"
+          }
+        ]
+      }
+    ]
+  }
+}

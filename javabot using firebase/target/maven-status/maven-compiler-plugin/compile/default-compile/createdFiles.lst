@@ -1,0 +1,11 @@
+com\example\javabot\messages\Messages.class
+com\example\javabot\config\FirebaseConfig.class
+com\example\javabot\JavabotApplication.class
+com\example\javabot\controller\WhatsappBotController.class
+com\example\javabot\entity\Doctor.class
+com\example\javabot\service\WhatsappSenderService.class
+com\example\javabot\service\DoctorService.class
+com\example\javabot\service\AppointmentService.class
+com\example\javabot\entity\Appointment.class
+com\example\javabot\entity\Order.class
+com\example\javabot\service\OrderService.class
