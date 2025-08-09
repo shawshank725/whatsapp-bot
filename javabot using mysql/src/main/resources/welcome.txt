@@ -1,0 +1,33 @@
+{
+  "type": "list",
+  "header": {
+    "type": "text",
+    "text": "Jarurat Care Options"
+  },
+  "body": {
+    "text": "Please choose a service:"
+  },
+  "footer": {
+    "text": "We're here to help you!"
+  },
+  "action": {
+    "button": "Choose Option",
+    "sections": [
+      {
+        "title": "Health Services",
+        "rows": [
+          {
+            "id": "book_doctor",
+            "title": "Book Doctor Appointment",
+            "description": "Consult with certified doctors"
+          },
+          {
+            "id": "order_medicines",
+            "title": "Order Medicines",
+            "description": "Get medicines delivered"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "type": "list",
+  "header": {
+    "type": "text",
+    "text": "Doctor Appointment"
+  },
+  "body": {
+    "text": "Select a specialty:"
+  },
+  "footer": {
+    "text": "Our doctors are ready to help!"
+  },
+  "action": {
+    "button": "Choose Specialty",
+    "sections": [
+      {
+        "title": "More Specialties",
+        "rows": [
+          {
+            "id": "urologist",
+            "title": "Urologist",
+            "description": "Urinary tract and male reproductive health"
+          },
+          {
+            "id": "gastroenterologist",
+            "title": "Gastroenterologist",
+            "description": "Digestive system and liver specialist"
+          },
+          {
+            "id": "oncologist",
+            "title": "Oncologist",
+            "description": "Cancer specialist"
+          },
+          {
+            "id": "nephrologist",
+            "title": "Nephrologist",
+            "description": "Kidney specialist"
+          },
+          {
+            "id": "pulmonologist",
+            "title": "Pulmonologist",
+            "description": "Lung and respiratory system specialist"
+          },
+          {
+            "id": "endocrinologist",
+            "title": "Endocrinologist",
+            "description": "Hormone and gland specialist"
+          },
+          {
+            "id": "rheumatologist",
+            "title": "Rheumatologist",
+            "description": "Joint and autoimmune diseases"
+          },
+          {
+            "id": "ophthalmologist",
+            "title": "Ophthalmologist",
+            "description": "Eye and vision specialist"
+          },
+          {
+            "id": "dentist",
+            "title": "Dentist",
+            "description": "Teeth and oral health specialist"
+          },
+          {
+            "id": "homeopath",
+            "title": "Homeopath",
+            "description": "Alternative medicine specialist"
+          }
+        ]
+      }
+    ]
+  }
+}

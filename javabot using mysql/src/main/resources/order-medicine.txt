@@ -1,0 +1,38 @@
+{
+  "type": "list",
+  "header": {
+    "type": "text",
+    "text": "Order Medicines"
+  },
+  "body": {
+    "text": "Choose how you'd like to place your order:"
+  },
+  "footer": {
+    "text": "We deliver medicines to your doorstep!"
+  },
+  "action": {
+    "button": "Select Option",
+    "sections": [
+      {
+        "title": "Order Options",
+        "rows": [
+          {
+            "id": "specify_medicines",
+            "title": "Specify Medicines",
+            "description": "Order common medicines by typing them out"
+          },
+          {
+            "id": "repeat_order",
+            "title": "Repeat Last Order",
+            "description": "Quick reorder from your previous order"
+          },
+          {
+            "id": "contact_pharmacist",
+            "title": "Talk to a Pharmacist",
+            "description": "Need help? Chat with our expert"
+          }
+        ]
+      }
+    ]
+  }
+}
